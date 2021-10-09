@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rd9WeK/ngH2+JL6rThKvycnlx5OpNhQPh3mQLkPiGUCvrK99uqKdfjxSzofGElIkWaFsGcFyIGTuNi9jSwvChQ==",
+  "success": true,
+  "projectFilePath": "E:\\gurdeep\\interview\\assignment\\Kishore\\APIASPNETCORE\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

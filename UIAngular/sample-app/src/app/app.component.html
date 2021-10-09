@@ -1,0 +1,14 @@
+<div class="container">
+  <form [formGroup]="formData" (ngSubmit)="onSubmit($event)">
+    <div class="form-group">
+      <label for="firstname" >First Name</label>
+      <input type="text" class="form-control" formControlName="firstname" id="firstname" aria-describedby="firstname" placeholder="Enter first name" required>
+    </div>
+    <div class="form-group">
+      <label for="lastname">Password</label>
+      <input type="text" class="form-control" formControlName="lastname" id="lastname" placeholder="Enter last name" required>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>
+<router-outlet></router-outlet>
